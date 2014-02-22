@@ -808,6 +808,11 @@ section #title p {
 section #map {
   margin-bottom: 1em;
 }
+section #map figcaption {
+  text-align: center;
+  font-size: smaller;
+  font-style: italic;
+}
 section .credits {
   font-size: 11px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
